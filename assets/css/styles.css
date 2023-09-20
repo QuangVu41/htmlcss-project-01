@@ -130,6 +130,9 @@ a {
 .hero .hero-cta {
     margin-top: 40px;
     min-width: 170px;
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 500;
 }
 
 .hero-img {
